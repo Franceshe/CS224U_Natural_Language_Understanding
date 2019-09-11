@@ -1,0 +1,21 @@
+# Lecture 1
+
+## Goal of NLU
+* possibile application: A conversational agents that can provide assistance, entertainment or companionship.
+
+
+* Scientific goals vs technogical goals
+* Debates: The Imitation Game VS The Chinese Room
+..* Turing augues behavior is understanding.
+
+### A brief history of NLU:
+
+### Limitations:
+### How conversational agents work?
+*  Eliza(1966) -psychiatrist
+* A growing proportion of querry stream is not well served by traditional keyword-based information retrieval.
+*Sematic query parsing: mapping the query to structured, machine readable representation
+..* Seeking answers not found on web page
+..* Seeking actions rather than information
+* Sentiment analysis: user reviews for products.
+* Quantitative finance: analysis of twitter -> stock, computational neuroscience. 
